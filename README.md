@@ -1,16 +1,6 @@
-# snakeapp
+# Reptile Tracker
 
-A new Flutter application.
+This is an Android/IOS application I developed utilizing Flutter and the Firebase Database. This app is designed as a simple way to keep a journal of reptiles or really any animal that your come across. This idea came to me after I could not remember the type of snake I had captured at a young age. This is in no way a production app, and only is only in a test state. I do not intend to expand it further.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# DEMO
+![Reptile Tracker](https://imgur.com/DQjxir5)
